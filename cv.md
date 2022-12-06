@@ -30,3 +30,14 @@ function factorial(n){
     return n * factorial(n-1);
 }
 ```
+___
+### Education and Courses
+* **Vinnytsia National Technical University**  
+  [Certificate](https://drive.google.com/file/d/14G-qKgLGJfZ9AKXet10iQJIyr0b_hrfb)
+* **The QA Manual course at Hillel Computer School**  
+  [Certificate](https://certificate.ithillel.ua/view/46150533)
+___
+
+### Languages
+* English - Intermediate
+* Ukrainian - Native
