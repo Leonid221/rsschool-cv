@@ -15,3 +15,18 @@ ___
 ### About Me
 I am a purposeful and highly motivated person who can adjust quickly to new surroundings. My qualities such as sociability, flexibility and dependability make me good at teamwork.
 ___
+
+### Skills and Tools
+* HTML, CSS;
+* Git, GitHub
+* VS Code
+* JavaScript Basics
+___
+### Code Example
+```javascript
+function factorial(n){
+    if(n < 0) return null;
+    if(n <= 1) return 1;
+    return n * factorial(n-1);
+}
+```
